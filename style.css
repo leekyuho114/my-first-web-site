@@ -29,7 +29,7 @@ body{
 #article{
     padding:25px;
 }
-@media(max-width:800px){
+@media(max-width:800px){ /*화면이 800px 이하로 작아졌을 시*/
     #grid{
     display:block;
     }
